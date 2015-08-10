@@ -18,5 +18,11 @@
     <ClCompile Include="AssignmentOperators.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FindInPartiallySortedMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReplaceBlank.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
