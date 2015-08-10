@@ -80,6 +80,7 @@
   <ItemGroup>
     <ClCompile Include="AssignmentOperators.cpp" />
     <ClCompile Include="FindInPartiallySortedMatrix.cpp" />
+    <ClCompile Include="PrintListReversingly.cpp" />
     <ClCompile Include="ReplaceBlank.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
