@@ -14,7 +14,7 @@ public class IsCharInStringRepeat {
 		boolean b1 = isUniqueChars(str1);
 		boolean b2 = isUniqueChars(str2);
 		System.out.println("b1:" + b1);
-		System.out.println("b2:" + b2);
+		System.out.println("b2:" + b2); 
 	}
 	
 	public static boolean isUniqueChars(String str){  
