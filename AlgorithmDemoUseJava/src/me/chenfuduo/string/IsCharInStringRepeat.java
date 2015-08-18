@@ -17,7 +17,7 @@ public class IsCharInStringRepeat {
 		System.out.println("b2:" + b2); 
 	}
 	
-	public static boolean isUniqueChars(String str){  
+	public static boolean isUniqueChars(String str){   
 		if (str.length() > 256) {
 			return false;
 		}
